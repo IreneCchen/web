@@ -15,28 +15,28 @@
 
 
 ##### 关于安全和检验  
-![](image/safe.png)
+![](https://github.com/IreneCchen/web/tree/main/image/safe.png)
 
 ##### 关于内外链接  
-![](image/linkin.png)  
-![](image/linkout.png)  
+![](https://github.com/IreneCchen/web/tree/main/image/linkin.png)  
+![](https://github.com/IreneCchen/web/tree/main/image/linkout.png)  
 
 ##### 关于SEO优化
-![](image/seo1.png)   
+![](https://github.com/IreneCchen/web/tree/main/image/seo1.png)   
 
 ##### 关于小程序    
-![](image/news.png)  
+![](https://github.com/IreneCchen/web/tree/main/image/news.png)  
 
 ##### 关于备份
 > 我设置的是10天备份一次，而在云服务器上是一周制作一次镜像。
 
 ### 我遇到的问题  
 * 关于Wordfence的优化  
-![](image/wordfence1.png)  
+![](https://github.com/IreneCchen/web/tree/main/image/wordfence1.png)  
 开始我尝试了自动优化，可是报错  
-![](image/wordfence2.png)  
+![](https://github.com/IreneCchen/web/tree/main/image/wordfence2.png)  
 后来我尝试手动配置   
-![](image/wordfence3.png)  
+![](https://github.com/IreneCchen/web/tree/main/image/wordfence3.png)  
 仍然无法优化配置，后续会继续尝试。
 
 * 关于收录  
