@@ -5,22 +5,22 @@
 [区块链技术](https://www.irenechen.host/)
 
 ##### 关于安全和检验  
-![](/image/news.png)
+![](image/safe.png)
 
 ##### 关于内外链接  
-![](/image/linkin.png)  
-![](/image/linkout.png)
+![](image/linkin.png)  
+![](image/linkout.png)
 
 ##### 关于SEO优化  
-![](/image/SEO.png)
+![](image/SEO.png)
 
 ### 我遇到的问题  
 * 关于Wordfence的优化  
-![](/image/wordfence1.png)  
+![](image/wordfence1.png)  
 开始我尝试了自动优化，可是报错  
-![](/image/wordfence2.png)  
+![](image/wordfence2.png)  
 后来我尝试手动配置   
-![](/image/wordfence3.png)  
+![](image/wordfence3.png)  
 仍然无法优化配置，后续会继续尝试。
 
 * 关于收录  
